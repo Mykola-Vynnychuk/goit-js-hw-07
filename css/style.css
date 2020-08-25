@@ -1,3 +1,13 @@
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.image-card__item {
+  list-style: none;
+}
+
 #validation-input {
   border: 3px solid #bdbdbd;
 }
